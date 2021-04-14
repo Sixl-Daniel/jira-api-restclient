@@ -4,7 +4,7 @@
 
 You all know that JIRA supports REST API, right? It can be very useful, for example, during automation job creation and notification sending.
 
-This library will ensure unforgettable expirience when working with JIRA through REST API. Hope you'll enjoy it.
+This library will ensure unforgettable experience when working with JIRA through REST API. Hope you'll enjoy it.
 
 ## Usage
 
